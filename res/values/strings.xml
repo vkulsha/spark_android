@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">spark_house</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">СПАРК "Умный Дом"</string>
+    <string name="btn_ON">Включить LED</string>
+    <string name="btn_OFF">Выключить LED</string>
+    <string name="b1">ЗАЛ</string>
+    <string name="b2">КУХНЯ</string>
+    <string name="b3">ВАННА</string>
+    <string name="b4">КОРИДОР</string>
+    <string name="b5">КОРИДОР+КУХНЯ</string>
+    <string name="b6">СВЕТ</string>
+    <string name="b7">КРАНЫ</string>
+    <string name="b8">РОЗЕТКИ</string>
+    <string name="b9">ГОРЯЧАЯ</string>
+    <string name="b10">ХОЛОДНАЯ</string>
+    <string name="b11">ГАЗ</string>
+    <string name="b12">ЗАЛ</string>
+    
+</resources>
